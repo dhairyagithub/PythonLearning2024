@@ -1,3 +1,11 @@
 1. Command to clone fresh repository.
 git clone repo_url
 git clone https://github.com/dhairyagithub/PythonLearning2024.git
+
+2. Add file to repo folder  first_file.txt
+3. run command on git terminal 
+   git status : it will show newly add file in red color
+
+4. run command "git add ." -> "git status" :  it will show the file in green color
+5. run command "git commit -m "msg"
+6. git push : upload file to git hub server
